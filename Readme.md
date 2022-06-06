@@ -1,3 +1,5 @@
+# SQL
+
 This is where I place some of my work on SQL projects. 
 
 1. SQL_Danny Case Study.
